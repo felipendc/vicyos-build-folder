@@ -143,7 +143,7 @@ VicyosLinux XFCE, HLWM, GNOME, and BSPWM (Nord-Edition) were only possible thank
 ArcoLinux Project and whole TEAM!
 Erik Dubois for the support and mentoring on Youtube!
 Erik Dubois videos & Brad Heffernan for his Hefftor-Editions that got me inspired to work on my VicyosLinux Spinoffs!
-Aditya Shakya (adi1090x), for some of this scripts. 
+Aditya Shakya (adi1090x), for some of his scripts. 
 ArchLinux: Wiki, AUR, Developers, Trusted Users, Support Staff, Maintainers and all!
 Package maintainers for keeping up the pkgs up-to-date!
 Linus Torvalds and his team. Hahaha
