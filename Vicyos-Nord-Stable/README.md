@@ -55,6 +55,7 @@ You will need to be running any VicyosLinux Distribution due to the fact that it
  - [x] Minor bugs fixed
  - [x] Systemd required startable files added - from ArcoLinux-ISO
  - [x] Building ISO Script Improved: Now, it auto-installs the required Archiso 50.1-1 if needed. 
+ - [x] Calamares installer won't open - fixed
 
 
 <br />
