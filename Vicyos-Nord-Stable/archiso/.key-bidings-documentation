@@ -1,0 +1,530 @@
+
+#####################################################################################################
+###################################### VicyosLinux Key-bidings! #####################################
+#####################################################################################################
+
+---------------
+# Preselect the splitting area for next window on leaf/parent
+super + ctrl + alt {Left,Down,Up,Right}
+
+
+---------------
+# Cancel preselection
+super + ctrl + alt + space
+
+
+---------------
+# Flip layout vertically
+super + a
+
+# Flip layout /horizontally
+super + shift + a
+
+---------------
+# Move floating window
+super + alt + {_,shift + }{Left,Down,Up,Right}
+
+
+---------------
+# Expand tiled space
+ctrl + alt + {Left,Down,Up,Right}
+
+
+---------------
+# Contract tiled space
+super + ctrl + {Left,Down,Up,Right}
+
+
+---------------
+# Focus/swap windows by direction
+super + {_,shift + }{Left,Down,Up,Right}
+
+
+---------------
+# Focus next/previous window
+super + Left
+
+
+---------------
+# Focus next/previous window
+super + Right
+
+
+---------------
+# Focus Up window
+super + Up
+
+
+---------------
+# Focus Down window
+super + Down
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Left
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Right
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Up
+
+
+---------------
+# Move focused window to other monitor
+super + alt + Down
+
+
+---------------
+#Dmenu
+super + F11
+
+
+---------------
+#Rofi
+super + F12
+
+
+---------------
+# network / internet
+super + n
+
+
+---------------    
+#Browser / Google-Chrome
+super + w
+
+
+---------------
+# Log out / Poweroff / Lock / Reboot
+super + x
+
+
+---------------
+# Urxvt
+super + Return
+
+
+---------------
+# Range: "a console file manager"
+super + r
+
+
+
+
+
+/////////////////////////////////////////////////////////////
+
+If you want to change some of these key-bidings, go to:
+
+.config/bspwm/sxhkd/
+
+and open the file: 
+
+sxhkdrc
+
+enjoy it!.
+
+
+/////////////////////////////////////////////////////////////
+
+
+
+
+
+
+################################################################################################
+##################################### ARCOLINUX Key-bidings! ###################################
+################################################################################################
+
+---------------
+# Vivaldi
+super + F1  
+
+
+---------------
+# Atom
+super + F2
+
+
+---------------
+#Inkscape
+super + F3
+
+
+---------------
+#Gimp
+super + F4
+
+
+---------------
+#Meld
+super + F5
+
+
+---------------
+#Vlc
+super + F6
+
+
+---------------
+#Virtualbox
+super + F7
+
+
+---------------
+#Thunar
+super + F8
+
+
+---------------
+#Evolution
+super + F9
+
+
+---------------
+#Spotify
+super + F10
+
+
+---------------
+#Atom
+super + e
+
+
+---------------
+#Conky-toggle
+super + c
+
+
+---------------
+#Htop
+super + h
+
+
+---------------
+#Urxvt
+super + t
+
+
+---------------
+#Pavucontrol
+super + v
+
+
+---------------
+#Pragha
+super + m
+
+
+---------------
+#Xkill
+super + Escape
+
+
+---------------
+#File-Manager
+super + shift + Return
+
+
+---------------
+#rofi
+super + shift + d
+
+
+---------------    
+#reload sxhkd:
+super + shift + s
+
+
+---------------
+#Keyboard dependent
+#super + shift + KP_Enter
+
+
+---------------
+#conky-rotate
+ctrl + alt + Next
+
+
+---------------
+#conky-rotate
+ctrl + alt + Prior
+
+
+---------------
+#File-Manager
+ctrl + alt + b
+
+
+---------------
+#Catfish
+ctrl + alt + c
+
+
+---------------
+#Chromium
+ctrl + alt + g
+
+
+---------------
+#Evolution
+ctrl + alt + e
+
+
+---------------
+#Firefox
+ctrl + alt + f
+
+
+---------------
+#Nitrogen
+ctrl + alt + i
+
+
+---------------
+#Pamac-manager
+ctrl + alt + p
+
+
+---------------
+#Xfce4-settings-manager
+ctrl + alt + m
+
+
+---------------
+#Pulse Audio Control
+ctrl + alt + u
+
+
+---------------
+#Spotify
+ctrl + alt + s
+
+
+---------------
+#Urxvt
+ctrl + alt + Return
+    
+
+---------------
+#Urxvt
+ctrl + alt + t
+
+
+---------------
+#Vivaldi
+ctrl + alt + v
+
+
+---------------
+#Xfce4-appfinder
+ctrl + alt + a
+
+
+---------------
+#Wallpaper trash
+alt + t
+
+
+---------------
+#Wallpaper next
+alt + n
+
+
+---------------
+#Wallpaper previous
+alt + p
+
+
+---------------
+#Wallpaper favorite
+alt + f
+
+
+---------------
+#Wallpaper previous
+alt + Left
+
+
+---------------
+#Wallpaper next
+alt + Right
+
+
+---------------
+#Wallpaper toggle-pause
+alt + Up
+
+
+---------------
+#Wallpaper resume
+alt + Down
+
+
+---------------
+#Gmrun
+alt + F2
+
+
+---------------
+#Xfce4-appfinder
+alt + F3
+
+
+---------------
+#Wallpaper trash
+alt + shift + t
+
+
+---------------
+#Wallpaper next
+alt + shift + n
+
+
+---------------
+#Wallpaper previous
+alt + shift + p
+
+
+---------------
+#Wallpaper favorite
+alt + shift + f
+
+
+---------------
+#Wallpaper update
+alt + shift + u
+
+
+---------------
+#Xcfe4-TaskManager
+ctrl + shift + Escape
+
+
+---------------
+#Scrot
+Print
+
+
+---------------
+#screeenshooter
+ctrl + Print
+
+
+---------------
+#Gnome-Screenshot
+ctrl + shift + Print
+
+
+---------------
+##urxvt-terminal dropdown
+F12
+
+---------------
+#Picom Toggle
+ctrl + alt + o
+
+
+---------------
+#Toggle fullscreen of window
+super + f
+
+---------------
+# Toggle pseudo tiling of window
+super + p
+
+
+---------------
+#kill
+super + q
+
+
+---------------
+#Focus selected desktop
+super + Tab
+or 
+super + {1,2,3,4,5,6,7,8,9,0} 
+
+
+---------------
+# Increase/decrease window gap on focused desktop
+super + bracket{left,right}
+
+
+---------------
+# set the window state
+super + space
+
+
+---------------
+# Move focus to other monitor
+super + BackSpace
+
+
+---------------
+# Cancel preselection
+super + ctrl + space
+
+
+---------------
+#Reload bspwm
+super + shift + r
+
+
+---------------
+#kill
+super + shift + q
+
+
+---------------
+#Logout
+super + shift + x
+
+
+---------------
+# Focus parent/brother/first/second for preselection
+super + ctrl + {e,r,t,y}
+
+
+---------------
+# Define splitting ratio for next window on leaf/parent
+super + ctrl + {_,shift +}{1-9}
+
+
+---------------
+#Focus selected desktop
+alt + Tab
+
+
+---------------
+	#Focus selected desktop
+alt + shift + Tab
+
+
+---------------
+#Rotate desktop
+alt + space
+
+
+---------------
+#Switch here between qwerty and azerty or make new one
+#Focus selected desktop FOR QWERTY KEYBOARDS
+super + {1-9,0}
+
+
+---------------
+#Switch here between qwerty and azerty or make new one
+#Move window to selected desktop FOR QWERTY KEYBOARDS
+super + shift + {1-9,0}
+
+
+
+
+
+

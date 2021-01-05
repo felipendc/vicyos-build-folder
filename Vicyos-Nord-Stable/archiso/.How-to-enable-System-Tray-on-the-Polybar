@@ -1,0 +1,39 @@
+
+
+Another day, I was wondering how to enable, disable, or move the System-Tray from one side to the other on the Polybar, 
+with no need to access the Polybar config folder, all the time it was needed.
+
+So, I decided to write some "commands" or (Alias) to make it easy to enable, disable, or even move the System-Tray from the right to the left side of the Polybar,
+just by using some easy commands on the terminal:
+
+
+
+-------------------------------------------------------------------
+How to enable the System-Tray on the right side of the Polybar:
+
+Open a new terminal and type:
+
+tray-right
+
+then, hit ENTER!
+There you go!
+
+
+-------------------------------------------------------------------
+How to enable the System-Tray on the left side of the Polybar:
+
+tray-left
+
+then, hit ENTER!
+Sounds good, right?
+
+
+-------------------------------------------------------------------
+How to DISABLE the System-Tray from the Polybar:
+
+tray-off
+
+then, hit ENTER!
+It's pretty easy, isn't it?
+
+-------------------------------------------------------------------

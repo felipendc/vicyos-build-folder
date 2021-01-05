@@ -1,0 +1,15 @@
+.............................................
+
+If you are facing a problem with "Dummy Audio" on Pavucontrol, don't worry, I've written an "Alias" that
+will fix it. 
+
+You just need to open a new terminal window and type:
+
+no-sound
+
+Then, hit ENTER!
+This is it.
+
+Sometimes you will need to reboot the computer.
+
+..............................................
