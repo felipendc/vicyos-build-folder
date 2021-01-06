@@ -43,8 +43,8 @@ You will need to be running any VicyosLinux Distribution due to the fact that it
 <br />
 <br />
 
-<!---
-**//  vicyos-nord-2021.01.05.iso - Changelogs:**
+
+**//  vicyos-nord-2021.01.06.iso - Changelogs:**
 
  - [x] Pre-installed Kernel version 5.10.4-arch2-1
  - [x] Get a pkg info just by typing: info _name-of-the-pkg
@@ -57,10 +57,9 @@ You will need to be running any VicyosLinux Distribution due to the fact that it
  - [x] Building ISO Script Improved: Now, it auto-installs the required Archiso 50.1-1 if needed. 
  - [x] Calamares installer won't open - fixed
 
+<br />
+<br />
 
-<br />
-<br />
---->
 
 **//  vicyos-nord-2020.09.16.iso - Changelogs:**
 
