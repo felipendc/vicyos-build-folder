@@ -47,7 +47,7 @@ You will need to be running any VicyosLinux Distribution due to the fact that it
 
  - [x] Pre-installed Kernel version 5.10.8-arch1-1
  - [x] Vicyos-Build-ISO Script Improvement: (Now, it allows Multiple VicyosLinux-ISO buildings)
- - [x] nomonoset added on the ISO
+ - [x] nomonoset added to ISO
 
 <br />
 <br />
