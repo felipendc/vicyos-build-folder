@@ -3,7 +3,7 @@
 archiso_installed_version=$(pacman -Qn archiso)
 archiso_required_version="archiso 50.1-1"
 
-buildFolder="$HOME/Vicyos-build"
+buildFolder="$HOME/Vicyos-build-xfce-dark-edition"
 outFolder="$HOME/Vicyos-Iso-Complete/"
 finishedIso="$buildFolder/archiso/out/"
 mkdir $outFolder
